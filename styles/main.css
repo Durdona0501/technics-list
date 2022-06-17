@@ -1,0 +1,33 @@
+body {
+  background-color: royalblue
+}
+
+h1 {
+  text-align: center;
+}
+
+.list {
+  background-color: white;
+  list-style-type: none;
+  text-align: center;
+  line-height: 30px;
+  }
+
+.item {
+  color: blue;
+  text-transform: uppercase;
+  text-align: center;
+  
+}
+
+.paragraph {
+  color: blue;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.text {
+  text-align: center;
+}
+
+
